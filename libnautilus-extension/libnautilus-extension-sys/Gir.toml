@@ -1,0 +1,13 @@
+[options]
+library = "Nautilus"
+version = "4.1"
+min_cfg_version = "1.0"
+target_path = "."
+girs_directories = ["/usr/share/gir-1.0/"]
+work_mode = "sys"
+
+external_libraries = [
+    "GLib",
+    "GObject",
+    "GIO"
+]

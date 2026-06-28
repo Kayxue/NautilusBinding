@@ -1,0 +1,14 @@
+[options]
+library = "Nautilus"
+version = "4.1"
+min_cfg_version = "1.0"
+target_path = "."
+girs_directories = ["/usr/share/gir-1.0"]
+work_mode = "normal"
+single_version_file = true
+generate_safety_asserts = true
+deprecate_by_min_version = true
+
+generate = ["Nautilus.*"]
+
+manual = []
