@@ -1,1 +1,0 @@
-/home/kay/nautilus-binding/libnautilus-extension/libnautilus-extension-sys/target/debug/libnautilus_sys.rlib: /home/kay/nautilus-binding/libnautilus-extension/libnautilus-extension-sys/Cargo.toml /home/kay/nautilus-binding/libnautilus-extension/libnautilus-extension-sys/build.rs /home/kay/nautilus-binding/libnautilus-extension/libnautilus-extension-sys/src/lib.rs
