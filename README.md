@@ -1,4 +1,4 @@
-# Nautilus Binding
+# libnautilus-extension4-rs
 
 Rust bindings for libnautilus-extension. Generated using gir.
 
