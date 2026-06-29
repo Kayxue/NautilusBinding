@@ -1,6 +1,6 @@
 # Nautilus Binding
 
-Rust bindings for libnautilus-extension.
+Rust bindings for libnautilus-extension. Generated using gir.
 
 > [!NOTE]
-> Waiting for others to solve the issue([#1740](https://github.com/gtk-rs/gir/issues/1740)), this module can't be used now. If you know what to do next, you can make a pull request.
+> Because the gir tutorial is not complete, this module only contains all low-level bindings and very few high-level bindings. This module can't be used right now. If you know what to do next, you can make a pull request.
